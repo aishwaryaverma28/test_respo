@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/test_respo/static/css/main.4deaca36.css",
+    "main.js": "/test_respo/static/js/main.a2358531.js",
+    "index.html": "/test_respo/index.html",
+    "main.4deaca36.css.map": "/test_respo/static/css/main.4deaca36.css.map",
+    "main.a2358531.js.map": "/test_respo/static/js/main.a2358531.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4deaca36.css",
+    "static/js/main.a2358531.js"
+  ]
+}
