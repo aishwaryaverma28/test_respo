@@ -1,0 +1,34 @@
+.upfooter_container{
+  width: 100%;
+  background-color: black;
+  padding: 1rem;
+  color: white;
+}
+.upfooter_container div{
+  padding: 2rem 0;
+  text-align: center;
+}
+.upfooter_large_head{
+  font-weight: 600;
+  font-size: 1.9rem;
+}
+.upfooter_small_head{
+ color: rgb(200,168,112);
+  font-size: 1.1rem;
+  font-weight: 400;
+  margin-top: .5rem;
+}
+.advanceP{
+  font-size: 1.3rem;
+  margin-top: .5rem;
+}
+.upfooter_downpart{
+  max-width: 1050px;
+  margin: auto;
+  text-align: left !important;
+}
+.upfooter_downpart p{
+  padding-top: .5rem;
+  font-size: 1.25rem;
+  font-weight: 400;
+}

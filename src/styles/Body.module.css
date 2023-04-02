@@ -1,0 +1,42 @@
+.body_container{
+    max-width: 1200px;
+    margin: auto;
+}
+.body{
+    padding: 1rem;
+}
+.body_heading{
+    text-align: center;
+    margin-bottom: 1rem;
+    font-size: 2.5rem;
+}
+.body_subHead{
+    font-size: 1.4rem;
+}
+.body_section2{
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 1rem;
+    margin-bottom: 1.5rem;
+    display: flex;
+}
+.section2_lefthead{
+    font-size: 1.6rem;
+    font-weight: 600;
+}
+.section2_leftpara{font-size: 1.2rem;}
+.center_heading{
+    text-align: center;
+    margin-bottom: 1rem;
+    font-size: 2.5rem;
+}
+.center_para{
+    text-align: center;
+    margin: 1rem;
+    font-size: 1rem;
+}
+.singer_card{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
